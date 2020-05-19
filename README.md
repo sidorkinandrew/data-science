@@ -1,6 +1,6 @@
 # data-science
 
-### finished courses:
+## finished courses:
 Intro into Machine Learning by National Research University Higher School of Economics
 https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/assignments
 
@@ -25,7 +25,8 @@ Data Visualization https://www.kaggle.com/learn/data-visualization
 
 Intermediate Machine Learning https://www.kaggle.com/learn/intermediate-machine-learning
 
-Python-related courses:
+##Python-related courses:
+
 Programming on Python
 https://stepik.org/course/67/syllabus
 
@@ -42,7 +43,8 @@ Programming 101 - Python:
 https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/course/
 
 
-###in the process:
+##in the process:
+
 https://stepik.org/course/401/syllabus
 
 https://courses.prometheus.org.ua/courses/IRF/ML101/2016_T3/courseware/4634937ae8834aa9a9c8a605d92215c7/a4a63e4567df4d7bba37d8b6386857bb/?activate_block_id=i4x%3A%2F%2FIRF%2FML101%2Fsequential%2Fa4a63e4567df4d7bba37d8b6386857bb
