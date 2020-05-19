@@ -14,10 +14,15 @@ Deep Learning: Spring 2020 (advanced) by https://mipt.ru/education/departments/f
 https://stepik.org/course/65389/syllabus
 
 Kaggle mini-cources:
+
 Python https://www.kaggle.com/learn/python
+
 Pandas https://www.kaggle.com/learn/pandas
+
 Intro to Machine Learning https://www.kaggle.com/learn/intro-to-machine-learning
+
 Data Visualization https://www.kaggle.com/learn/data-visualization
+
 Intermediate Machine Learning https://www.kaggle.com/learn/intermediate-machine-learning
 
 
