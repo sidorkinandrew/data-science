@@ -25,6 +25,22 @@ Data Visualization https://www.kaggle.com/learn/data-visualization
 
 Intermediate Machine Learning https://www.kaggle.com/learn/intermediate-machine-learning
 
+Python-related courses:
+Programming on Python
+https://stepik.org/course/67/syllabus
+
+Python adaptive training
+https://stepik.org/course/431/
+
+Python: basics and usage
+https://stepik.org/course/512/
+
+Linux programming
+https://stepik.org/course/548/syllabus
+
+Programming 101 - Python:
+https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/course/
+
 
 ###in the process:
 https://stepik.org/course/401/syllabus
